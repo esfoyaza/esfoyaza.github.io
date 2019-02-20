@@ -1,13 +1,6 @@
 name: "Esfoyaza"
 navbar:
-  title: "Esfoyaza: NCSU Maize Journal CLUB"
-  left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
-    - text: "Esfoyaza Mexico"
-      icon: fa-newspaper-o
-      href: esfoyazamexico.html
+  title: "Esfoyaza: NCSU Maize Journal Club"
 output:
   html_document:
     theme: cosmo
