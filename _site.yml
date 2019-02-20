@@ -1,0 +1,16 @@
+name: "Esfoyaza"
+navbar:
+  title: "Esfoyaza: NCSU Maize Journal CLUB"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Esfoyaza Mexico"
+      icon: fa-newspaper-o
+      href: esfoyazamexico.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: kate
+exclude: [".Rproj","README.md"]
+output_dir: "."
