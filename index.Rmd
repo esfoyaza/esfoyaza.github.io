@@ -9,7 +9,7 @@
 
 Informal meeting to discuss papers (mainly) about maize genetics, genomics, physiology, diversity.  
 
-We meet the first and third Wednesdays of the month in room # 128 Polk Hall. Coffee will be provided, but please bring your own mug. You can suggest papers to Jim, Peter or Ruben.
+We meet the second and fourth Fridday of the month at 9:30 AM in Polk Hall room # 124. Coffee will be provided, but please bring your own mug. Below is a list of the first papers we will discuss.
 
 ![](http://asturies.com/sites/default/files/Esfoyaza.jpg)
 <!-- break -->
@@ -20,6 +20,15 @@ We meet the first and third Wednesdays of the month in room # 128 Polk Hall. Cof
   
 ### 2019
 
-#### Wednesday March 6  
 
-**1.** **Lu et al.** [A Silk-Expressed Pectin Methylesterase Confers Cross-Incompatibility Between Wild and Domesticated Strains of Zea mays](https://www.biorxiv.org/content/10.1101/529032v1)
+#### Friday April 12  
+
+**3.** **Sun et al.** [Extensive intraspecific gene order and gene structural variations between Mo17 and other maize genomes](https://www.nature.com/articles/s41588-018-0182-0) 
+
+#### Friday March 22  
+
+**2.** **Sindhu et al.** [A guardian of grasses: Specific origin and conservation of a unique disease-resistance gene in the grass lineage](https://www.pnas.org/content/105/5/1762.short)  
+
+#### Friday March 8  
+
+**1.** **Lu et al.** [A Silk-Expressed Pectin Methylesterase Confers Cross-Incompatibility Between Wild and Domesticated Strains of Zea mays](https://www.biorxiv.org/content/10.1101/529032v1) 
